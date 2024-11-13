@@ -1,2 +1,2 @@
-# StudyBuddy
+# Admin Support
 DBMS Project 
